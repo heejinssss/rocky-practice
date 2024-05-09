@@ -1,1 +1,1 @@
-# rocky=practice
+A repo for studying Linux
